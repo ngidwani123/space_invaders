@@ -1,0 +1,7 @@
+Made the aliens speed up by a factor of .97 everytime an alien is destroyed.
+This is implemented in _alien_contact and while not designed to be changed,
+can be changed if one feels like it.
+
+I also added hearts to the top right corner. These hearts have constants
+declared in consts.py and use assests from lab 23. The hearts are animated
+an have an animation speed and cycle declared in consts.py.
